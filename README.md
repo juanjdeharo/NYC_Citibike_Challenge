@@ -7,6 +7,6 @@
 
 > To analyze publicly released Citibike data in order to pitch to an investor the idea of setting up a similar business in Des Moines
 
-### Results
+## Results
 
 ![Top Starting Locations](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/1%20Top%20Starting%20Locations.PNG)
