@@ -16,7 +16,7 @@
 ![Gender Breakdown](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/2%20Gender%20Breakdown.PNG)
 
 ### Checkout Time by User
-![Checkout Time by User](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/2%20Gender%20Breakdown.PNG)
+![Checkout Time by User](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/3%20Checkout%20Time%20by%20User.PNG)
 
 ### Checkout Time by Gender 
 ![Checkout Time by Gender](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/4%20Checkout%20Time%20by%20Gender.PNG)
