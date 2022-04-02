@@ -9,3 +9,4 @@
 
 ### Results
 
+![Top Starting Locations](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/1%20Top%20Starting%20Locations.PNG)
