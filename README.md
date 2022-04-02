@@ -14,3 +14,18 @@
 
 ### Gender Breakdown
 ![Gender Breakdown](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/2%20Gender%20Breakdown.PNG)
+
+### Checkout Time by User
+![Checkout Time by User](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/2%20Gender%20Breakdown.PNG)
+
+### Checkout Time by Gender 
+![Checkout Time by Gender](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/4%20Checkout%20Time%20by%20Gender.PNG)
+
+### Trips by Weekday for Each Hour
+![Trips by Weekday for Each Hour](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/5%20Trips%20by%20Weekday%20for%20Each%20Hour.PNG)
+
+### Trips by Gender (Weekday per Hour)
+![Trips by Gender(Weekday per Hour)](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/6%20Trips%20by%20Gender%20(Weekday%20per%20Hour).PNG)
+
+### Trips by Gender per Weekday
+![Trips by Gender per Weekday](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/7%20Trips%20by%20Gender%20per%20Weekday.PNG)
