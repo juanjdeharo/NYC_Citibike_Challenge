@@ -1,7 +1,7 @@
 # NYC_Citibike_Challenge
 
-[link to dashboard](https://public.tableau.com/app/profile/juan.de.haro/viz/Citibike-Challlenge14/Story1?publish=yes "Challenge Stories")
-[link to dashboard](https://public.tableau.com/app/profile/juan.de.haro/viz/Citibikes-1/NYCStory?publish=yes "link to module stories")
+[link to Challenge Stories](https://public.tableau.com/app/profile/juan.de.haro/viz/Citibike-Challlenge14/Story1?publish=yes "Challenge Stories")
+[link to Module Stories](https://public.tableau.com/app/profile/juan.de.haro/viz/Citibikes-1/NYCStory?publish=yes "link to module stories")
 
 ## Overview of the NYC Citibike Analysis
 
@@ -29,3 +29,5 @@
 
 ### Trips by Gender per Weekday
 ![Trips by Gender per Weekday](https://github.com/juanjdeharo/NYC_Citibike_Challenge/blob/main/7%20Trips%20by%20Gender%20per%20Weekday.PNG)
+
+
